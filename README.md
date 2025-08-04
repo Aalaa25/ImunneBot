@@ -45,8 +45,7 @@ pip install -r requirements.txt
 Create a `.env` file with the following variables:
 
 ```env
-AZURE_OPENAI_API_KEY=your_azure_api_key
-AZURE_OPENAI_ENDPOINT=your_endpoint_url
+GITHUB_TOKEN=your_github_api_key
 NOMIC_API_KEY=your_nomic_api_key
 ```
 
