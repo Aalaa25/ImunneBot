@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+nomic
+chromadb
+azure-ai-inference
+langchain
+pymupdf  
